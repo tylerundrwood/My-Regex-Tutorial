@@ -11,7 +11,7 @@ to use for later.
 
 This could be used as a study guide for someone who is majoring in computer science or taking some type of computer programming classes.
 
-https://github.com/tylerundrwood/Regex/blob/main/develop/gist-template.md
+https://github.com/tylerundrwood/My-Regex-Tutorial/blob/main/develop/gist-template.md
 
 ## Credits
 
